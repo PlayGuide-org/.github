@@ -12,7 +12,7 @@ With PlayGuide, you'll never get stuck on a difficult level or challenge again -
 
 Whether you're looking to master a new game or just need help getting past a tricky level, PlayGuide has got you covered. Download our app today and join our community of passionate gamers who are committed to helping each other succeed!
 
-- Design: [Figma](https://www.figma.com/file/pvPGHKeqZfzS5Gd1Af1Crt/Mobile-Application-Project-(Project-Unknown)?node-id=0%3A1&t=Nu57jmepN3AdfG6a-1)
+Design: [Figma](https://www.figma.com/file/pvPGHKeqZfzS5Gd1Af1Crt/Mobile-Application-Project-(Project-Unknown)?node-id=0%3A1&t=Nu57jmepN3AdfG6a-1)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 You have Reached the end! Thank you for taking the time to read this.
 > PlayGuide.org
