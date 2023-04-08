@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/51787264/230706043-6b4d0bb0-5c0a-4665-bd25-26477e3ad53f.png" width="200" height="200"></p>
 
-### <p align="center">PlayGuide by PlayGuide.org</p>
+### <p align="center">PlayGuide</p>
 > The app it self currently does not exist
 
 
@@ -12,6 +12,7 @@ With PlayGuide, you'll never get stuck on a difficult level or challenge again -
 
 Whether you're looking to master a new game or just need help getting past a tricky level, PlayGuide has got you covered. Download our app today and join our community of passionate gamers who are committed to helping each other succeed!
 
+- Design: [Figma](https://www.figma.com/file/pvPGHKeqZfzS5Gd1Af1Crt/Mobile-Application-Project-(Project-Unknown)?node-id=0%3A1&t=Nu57jmepN3AdfG6a-1)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 You have Reached the end! Thank you for taking the time to read this.
 > PlayGuide.org
