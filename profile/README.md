@@ -4,7 +4,8 @@
 > The app it self currently does not exist
 
 
-#Description
+# Description
+
 PlayGuide is the ultimate community-driven, open-source game guide app for expert tips and comprehensive guides. Our app is powered by a passionate community of gamers who contribute their knowledge and expertise to help others succeed. Whether you're a seasoned gamer or a beginner, our app provides expert guidance and tips to help you improve your gaming skills and level up your gameplay.
 
 With PlayGuide, you'll never get stuck on a difficult level or challenge again - we provide comprehensive guides for all your favorite games across all platforms. Our app features a user-friendly interface based on Android 12's Material You design, allowing you to quickly and easily find the help you need. Each guide includes step-by-step instructions, insider tips, and strategies to help you succeed. 
