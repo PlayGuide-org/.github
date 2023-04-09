@@ -12,6 +12,7 @@ At PlayGuide, the focus is on creating user-friendly software that solves real-w
 The organization values diversity and inclusivity and is committed to creating a welcoming and supportive community where people from all backgrounds and skill levels can come together to collaborate on projects. PlayGuide encourages its users to share their ideas and feedback, and actively seeks out contributions from people of all ages, genders, and backgrounds.
 
 Through their commitment to open source development, PlayGuide hopes to create a more collaborative and democratic approach to software development, where everyone has the opportunity to participate and contribute to the creation of new and innovative solutions.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 You have Reached the end! Thank you for taking the time to read this.
 
